@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title><%: Page.Title %> - DEMO Restaurante El Buen Paladar FOTO</title>
     <title><%: Page.Title %> - TESTEO 1</title>
-    <title><%: Page.Title %> - CREACION DE LOS PIPELINES</title>
+    <title><%: Page.Title %> - CREACION DES-15</title>
     <asp:PlaceHolder runat="server">
         <%: Scripts.Render("~/bundles/modernizr") %>
     </asp:PlaceHolder>
